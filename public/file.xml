@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Clientes>
+  <Cliente>
+    <id>1</id>
+    <Nombre>rafa</Nombre>
+    <Apellido>arguello</Apellido>
+    <Direcciones>
+      <dirección>desampa</dirección>
+      <dirección>sn Jose</dirección>
+    </Direcciones>
+    <Teléfonos>
+      <Teléfono>88888888</Teléfono>
+      <Teléfono>82273214</Teléfono>
+    </Teléfonos>
+  </Cliente>
+  <Cliente>
+    <id>2</id>
+    <Nombre>gui</Nombre>
+    <Apellido>arg</Apellido>
+    <Direcciones/>
+    <Teléfonos/>
+  </Cliente>
+  <Cliente>
+    <id>3</id>
+    <Nombre>eddy</Nombre>
+    <Apellido>arguello</Apellido>
+    <Direcciones>
+      <dirección>Desamparados</dirección>
+    </Direcciones>
+    <Teléfonos>
+      <Teléfono>70808535</Teléfono>
+    </Teléfonos>
+  </Cliente>
+  <Cliente>
+    <id>4</id>
+    <Nombre>yamileth</Nombre>
+    <Apellido>Soza</Apellido>
+    <Direcciones/>
+    <Teléfonos/>
+  </Cliente>
+  <Cliente>
+    <id>5</id>
+    <Nombre>Sandra</Nombre>
+    <Apellido>Sandoval</Apellido>
+    <Direcciones/>
+    <Teléfonos/>
+  </Cliente>
+  <Cliente>
+    <id>6</id>
+    <Nombre>Roger</Nombre>
+    <Apellido>Arguello</Apellido>
+    <Direcciones/>
+    <Teléfonos/>
+  </Cliente>
+</Clientes>

@@ -1,0 +1,12 @@
+#Options +FollowSymLinks
+
+
+
+#1 variable
+
+
+RewriteEngine on
+
+Rewriterule /?$ index.php
+
+

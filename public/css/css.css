@@ -1,0 +1,12 @@
+.row{
+    margin: 10px;
+}
+#cuerpo{
+    min-height: 250px;
+    max-height: 250px;
+    overflow: scroll;
+    cursor: pointer;
+}
+body{
+    width: 96%;
+}
