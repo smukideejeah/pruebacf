@@ -4,4 +4,5 @@ require_once("controller/principal.php");
 
 $inicio = new principal();
 $inicio->inicio();
+
 ?>
